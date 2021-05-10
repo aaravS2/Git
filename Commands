@@ -1,0 +1,7 @@
+to add 'git add thing to add'
+to commit 'git commit -m 'commit message''
+cd -to change repositery
+git status to see the status
+to push the repositery 'git push origin master'
+to update 'git pull'
+for more info visit 'https://onlywei.github.io/explain-git-with-d3/'
