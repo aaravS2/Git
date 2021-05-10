@@ -4,5 +4,5 @@ cd -to change repositery
 git status to see the status
 to remotely add 'git remote add origin githubUrl'
 to push the repositery 'git push origin master'
-to get back 'git pull'
+to get update 'git pull'
 for more info visit 'https://onlywei.github.io/explain-git-with-d3/'
