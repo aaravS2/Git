@@ -6,3 +6,7 @@ to remotely add 'git remote add origin githubUrl'
 to push the repositery 'git push origin master'
 to get update 'git pull'
 for more info visit 'https://onlywei.github.io/explain-git-with-d3/'
+******************************************************************REACT-NATIVE*********************************************************************************
+expo init appname -to create a react native app
+npm install libraryname-to install a library
+expo start -to execute an app 
